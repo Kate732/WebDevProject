@@ -64,7 +64,7 @@ footer {
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) { /*mode for phones*/
     main{
         height: 600px;
     }
